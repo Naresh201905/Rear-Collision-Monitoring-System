@@ -11,7 +11,7 @@ This Python project detects potential rear-end collisions in vehicles using sens
  
 ## Technologies Used 
 - Python 3 
-- Arduino / Raspberry Pi (optional for sensors) 
+- Arduino / Raspberry Pi 
 - Ultrasonic / Proximity sensors 
 - Buzzer, LEDs, optional LCD display 
  
@@ -32,4 +32,5 @@ python main.py
 ## Future Improvements 
 - Integration with automatic braking system 
 - Mobile app dashboard for alerts 
-- Multi-sensor array for wider detection coverage 
+- Multi-sensor array for wider detection coverage
+
